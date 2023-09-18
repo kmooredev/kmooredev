@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **kmooredev@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/e/2PACX-1vSC2De9XT9dq3HiwLyoc3sQxoMNOxhmOoNlnuC7n03hRSy0vAdO4sVIloY7ayuKZeocxexECfytd4DW/pub](https://docs.google.com/document/d/e/2PACX-1vSC2De9XT9dq3HiwLyoc3sQxoMNOxhmOoNlnuC7n03hRSy0vAdO4sVIloY7ayuKZeocxexECfytd4DW/pub)
+- 📄 Learn about my experiences [here](https://docs.google.com/document/d/e/2PACX-1vSC2De9XT9dq3HiwLyoc3sQxoMNOxhmOoNlnuC7n03hRSy0vAdO4sVIloY7ayuKZeocxexECfytd4DW/pub)
 
 - ⚡ Fun fact **I was a certified personal trainer for a decade**
 
