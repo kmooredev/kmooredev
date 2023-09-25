@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Korey</h1>
+<h1 align="center">Hi 👋 I'm Korey</h1>
 <h3 align="center">A web developer from Houston, TX.</h3>
 
 - 🔭 I’m currently working on [You Don't Know Ball](https://github.com/kmooredev/you-dont-know-ball)
