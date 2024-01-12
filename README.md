@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋 I'm Korey</h1>
 <h3 align="center">A web developer from Houston, TX.</h3>
 
-- 🔭 I’m currently working on [You Don't Know Ball](https://github.com/kmooredev/you-dont-know-ball)
+- 🔭 I’m currently working on [Jammming](https://github.com/kmooredev/jammming)
 
 - 🌱 I’m currently learning **Next.js**
-
-- 👯 I’m looking to collaborate on [Talaria](https://github.com/kmooredev/talaria-fitness-tracker)
 
 - 👨‍💻 All of my projects are available at [https://kmooredev.github.io/my-portfolio/](https://kmooredev.github.io/my-portfolio/)
 
@@ -15,7 +13,7 @@
 
 - 📄 Learn about my experiences [here](https://docs.google.com/document/d/e/2PACX-1vSC2De9XT9dq3HiwLyoc3sQxoMNOxhmOoNlnuC7n03hRSy0vAdO4sVIloY7ayuKZeocxexECfytd4DW/pub)
 
-- ⚡ Fun fact **I was a certified personal trainer for a decade**
+- ⚡ Fun fact **I was a certified personal trainer for a decade!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
